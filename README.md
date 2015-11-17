@@ -2,7 +2,7 @@
 Its a motion sensor parrallex view
 
 
-[ ![Download](https://api.bintray.com/packages/jjhesk/maven/parallaxmotion/images/download.svg) ][1] [ ![Download](https://api.bintray.com/packages/andy2888/maven/SenAndroidExtraLibrary/images/download.svg) ][2]
+[![Download](https://api.bintray.com/packages/jjhesk/maven/parallaxmotion/images/download.svg)][1] [![Download](https://api.bintray.com/packages/andy2888/maven/SenAndroidExtraLibrary/images/download.svg)][2]
 
 Support multiple effects
 
@@ -13,6 +13,7 @@ Support multiple effects
 Easy setup and complete
 ```gradle
 
+compile 'com.hkm.motion:parallaxmotion:1.0.0'
 
 ```
 
