@@ -12,6 +12,7 @@ Support multiple effects
 
 Easy setup and complete
 ```gradle
+repositories {maven { url "http://dl.bintray.com/jjhesk/maven" }}
 
 compile 'com.hkm.motion:parallaxmotion:1.0.0'
 
